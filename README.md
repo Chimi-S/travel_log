@@ -7,6 +7,7 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 Make sure to install dependencies:
 
 ```bash
+
 npm install
 ```
 
@@ -15,6 +16,7 @@ npm install
 Start the development server on `http://localhost:3000`:
 
 ```bash
+
 npm run dev
 ```
 
@@ -23,12 +25,14 @@ npm run dev
 Build the application for production:
 
 ```bash
+
 npm run build
 ```
 
 Locally preview production build:
 
 ```bash
+
 npm run preview
 ```
 
